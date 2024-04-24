@@ -24,6 +24,5 @@
 
 <ul>
     <li> O Lean Inception detalhado no Miro pode ser encontrado a partir desse link <a>https://miro.com/app/board/uXjVKRH4T5M=/?share_link_id=912298513530</a></li>
-    <li>O vídeo de apresentação pode ser visto através do seguinte link <a>youtube.com</a></li>
+    <li>O vídeo de apresentação pode ser visto através do seguinte link <a>https://www.youtube.com/watch?v=JA6bxHsDX3k</a></li>
 </ul>
-
